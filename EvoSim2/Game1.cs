@@ -27,6 +27,7 @@ namespace EvoSim2
 
         public Game1()
         {
+            //test
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             graphics.PreferredBackBufferWidth = 1500;  // set this value to the desired width of your window
