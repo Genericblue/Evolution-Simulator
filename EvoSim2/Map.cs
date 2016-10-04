@@ -149,7 +149,7 @@ namespace EvoSim2
                     tiles[i, j].Update();
                 }
             }
-            Collider();
+            //Collider();//turned off collider since it is buggy
         }
     }
 }
